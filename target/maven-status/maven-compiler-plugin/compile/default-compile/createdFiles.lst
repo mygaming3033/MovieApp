@@ -1,0 +1,15 @@
+com\paradz3033\controller\ApplicationContextConfiguration.class
+com\paradz3033\service\ScreeningService.class
+com\paradz3033\dao\MovieDaoImpl.class
+com\paradz3033\service\MovieService.class
+com\paradz3033\controller\MovieController.class
+com\paradz3033\dao\ScreeningDaoImpl.class
+com\paradz3033\model\Screening.class
+com\paradz3033\dao\ScreeningDao.class
+com\paradz3033\model\Movie.class
+com\paradz3033\controller\WebServletConfiguration.class
+com\paradz3033\HibernateUtil.class
+com\paradz3033\controller\ScreeningController.class
+com\paradz3033\service\MovieServiceImpl.class
+com\paradz3033\dao\MovieDao.class
+com\paradz3033\service\ScreeningServiceImpl.class
